@@ -1,3 +1,6 @@
 # Hello-World-
 First Repository
-hello sie
+hello all
+This is just a intial approach to github
+currently learning about the advanced python, SQL, R, machine learning, artificial intelligence. 
+
